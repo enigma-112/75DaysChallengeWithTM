@@ -1,4 +1,4 @@
-https://leetcode.com/submissions/detail/666358406/
+// https://leetcode.com/submissions/detail/666358406/
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -16,4 +16,5 @@ public:
          return ans;
     }
 
-};
+}
+
